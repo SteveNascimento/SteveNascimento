@@ -1,4 +1,4 @@
-## Oi, eu sou o Steve Nascimento 👋
+## Oi, eu sou Steve Nascimento 👋
 
 - 🔭 Eu estou atualmente trabalhando com Javascript, React.js.
 - 🌱 Atualmente curso Ciências da Computação no IFCE - Campus Maracanaú.
