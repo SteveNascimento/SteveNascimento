@@ -3,7 +3,7 @@
 - 🔭 Eu estou atualmente trabalhando com Javascript, React.js.
 - 🌱 Atualmente curso Ciências da Computação no IFCE - Campus Maracanaú.
 - 👾 Estou atualmente estudando gerenciamento de banco de dados Oracle com PL/SQL.
-- 📫 Como entrar em contato comigo: <a href="linkedin.com/in/steve-nascimento-15057516b">Linkedin</a>
+- 📫 Como entrar em contato comigo: <a href="https://www.linkedin.com/in/steve-nascimento-15057516b">Linkedin</a>
 <img align="center" alt="CSS3" src="https://c.tenor.com/10Zdx_RXqgcAAAAM/programming-crazy.gif"/>
 <div>
   <a href="https://github.com/SteveNascimento">
