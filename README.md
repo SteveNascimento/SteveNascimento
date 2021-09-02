@@ -16,7 +16,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-original.svg"/>
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg"/>
 </div>
-##
+<br/>
 <img align="center" alt="CSS3" src="https://c.tenor.com/10Zdx_RXqgcAAAAM/programming-crazy.gif"/>
 
 <div>
@@ -25,7 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteveNascimento&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
+
 
 ![Snake animation](https://github.com/SteveNascimento/SteveNascimento/blob/output/github-contribution-grid-snake.svg)
 
