@@ -24,7 +24,7 @@
 <div>
   <a href="https://github.com/SteveNascimento">
   <img height="180em" src="https://github-readme-stats-self-alpha-78.vercel.app/api?username=SteveNascimento&show_icons=true&theme=dark"/>
-  <img height="180em" src="github-readme-stats-self-alpha-78.vercel.app/api/top-langs/?username=SteveNascimento&theme=dark&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-self-alpha-78.vercel.app/api/top-langs/?username=SteveNascimento&theme=dark&layout=compact"/>
 </div>
 
 
