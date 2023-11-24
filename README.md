@@ -2,7 +2,7 @@
 
 - 🔭 Eu estou atualmente trabalhando com Javascript e React.js.
 - 👨‍🎓 Sou formado em Ciências da Computação no IFCE - Campus Maracanaú.
-- 👾 Estou atualmente estudando sobre <a href="https://angular.io/">Angular</a>.
+- 👾 Cursando Pós-Graduação em Ciência de Dados na Unicesumar.
 - 📫 Como entrar em contato comigo: <a href="https://www.linkedin.com/in/steve-nascimento-15057516b">Linkedin</a>
 
 <div style="display: inline_block"><br>
