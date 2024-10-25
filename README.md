@@ -21,13 +21,5 @@
 <br/>
 <img align="center" alt="CSS3" src="https://c.tenor.com/10Zdx_RXqgcAAAAM/programming-crazy.gif"/>
 
-<div>
-  <a href="https://github.com/SteveNascimento">
-  <img height="180em" src="https://github-readme-stats-self-alpha-78.vercel.app/api?username=SteveNascimento&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-self-alpha-78.vercel.app/api/top-langs/?username=SteveNascimento&theme=dark&layout=compact"/>
-</div>
-
-
-
 ![Snake animation](https://github.com/SteveNascimento/SteveNascimento/blob/output/github-contribution-grid-snake.svg)
 
